@@ -10,6 +10,9 @@
 
 - React JS
 - TypeScript
+- MirageJS
+- Axios
+
 
 <h2>:page_facing_up: Sobre</h2>
 
